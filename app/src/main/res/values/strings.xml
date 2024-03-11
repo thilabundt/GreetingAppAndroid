@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="greetings">Поприветствовать</string>
+    <string name="stub_greetings">Приветствую, господин!</string>
+    <string name="custom_option">Свой вариант</string>
+    <string name="custom_greeting_hint">Введите своё приветствие здесь</string>
+    <string-array name="greeting_options">
+        <item>Привет</item>
+        <item>Здравствуйте</item>
+        <item>Добрый день</item>
+        <item>@string/custom_option</item>
+    </string-array>
+</resources>
